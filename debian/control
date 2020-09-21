@@ -1,0 +1,15 @@
+Source: com.deepin.demo
+Section: x11
+Priority: optional
+Maintainer: Iceyer <me@iceyer.net>
+Build-Depends: debhelper (>= 11), libdtkwidget-dev,
+ cmake,
+ libdtkwidget-dev,
+ libdtkgui-dev,
+ pkg-config,
+Standards-Version: 4.1.3
+
+Package: com.deepin.demo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: com.deepin.demo

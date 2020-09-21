@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=App Demo
+GenericName=App Demo
+Comment=App demo for Qt
+Categories=Utility;Qt
+Exec=/opt/apps/com.deepin.demo/files/bin/com.deepin.demo
+Icon=com.deepin.demo
+Terminal=false
+StartupNotify=true

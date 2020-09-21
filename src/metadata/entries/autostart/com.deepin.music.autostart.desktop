@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Exec=/opt/apps/com.deepin.demo/files/bin/com.deepin.demo
+GenericName=App Store Demo
+Icon=com.deepin.demo
